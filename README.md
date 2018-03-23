@@ -16,7 +16,7 @@
  - How does our HTML know that it should use our CSS file?
  - Change the page background color
 
-## JavaScript
+### JavaScript
  - How does our HTML know that it should use our JavaScript file?
  - How would we add another JavaScript file?
  - There's a partially completed function in our JavaScript file: try editing it so that when you click the button, the text from the input field appears in thearea of the page that currently says 'Put content here'
