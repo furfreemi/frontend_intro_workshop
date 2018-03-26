@@ -13,10 +13,12 @@
  - Change the text on the button
 
 ### CSS
- - How does our HTML know that it should use our CSS file?
+ - How does our browser know that it should use our CSS file when displaying index.html?
  - Change the page background color
+ - Change the background color of the box containing the text 'Put content here'
+ - What is the difference between '#' and '.' in CSS? Hint- check out how they're used within index.html
 
 ### JavaScript
- - How does our HTML know that it should use our JavaScript file?
+ - How does our browser know that it should use our JavaScript file when displaying index.html?
  - How would we add another JavaScript file?
  - There's a partially completed function in our JavaScript file: try editing it so that when you click the button, the text from the input field appears in thearea of the page that currently says 'Put content here'
